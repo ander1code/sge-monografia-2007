@@ -1,12 +1,16 @@
 # SGE-Monografia-2007
 ![Programming Language: Delphi](https://img.shields.io/badge/Delphi-orange?logo=delphi)
+
 ![Database: MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white) ![API Usada: ZeosLib](https://img.shields.io/badge/ZeosLib-4C8CBF?logo=zeoslib&logoColor=white)
+
 ![Platform: Windows](https://img.shields.io/badge/Windows-blue?logo=windows)
 
 ![Stars](https://img.shields.io/github/stars/ander1code/sge-monografia-2007?color=yellow&logo=github) ![Forks](https://img.shields.io/github/forks/ander1code/sge-monografia-2007?color=lightblue&logo=github)
 
-![Release Date](https://img.shields.io/badge/Release%20Date-April%202007-lightgrey?logo=calendar&logoColor=white) ![Version](https://img.shields.io/badge/Version-1.0-blue?logo=semver&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/ander1code/sge-monografia-2007?color=yellow&logo=github) ![Size](https://img.shields.io/github/repo-size/ander1code/sge-monografia-2007?color=blue&logo=files) ![License](https://img.shields.io/github/license/ander1code/sge-monografia-2007?color=black&logo=open-source-initiative&logoColor=green)
+![Release Date](https://img.shields.io/badge/Release%20Date-December%202007-lightgrey?logo=calendar&logoColor=white) 
+![Version](https://img.shields.io/badge/Version-1.0-blue?logo=semver&logoColor=white)
+
+![Last Commit](https://img.shields.io/github/last-commit/ander1code/sge-monografia-2007?color=yellow&logo=github) ![Size](https://img.shields.io/github/repo-size/ander1code/sge-monografia-2007?color=blue&logo=files) 
  
 ## 1. Introdução
 
